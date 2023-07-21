@@ -5,7 +5,7 @@
  - [Level 2 Term 2](#level-2-term-2)
  - [Level 3 Term 1](#level-3-term-1)
 
-<img src="/assets/banner.pdf" height="550px" width="800px">
+<img src="/assets/banner.jpg" height="550px" width="800px">
 
 ## Level 2 Term 1
 - [CSE 204 | Data Structures and Algorithms 1](https://github.com/BRAINIAC2677/CSE-204-Data-Structures-and-Algorithms-1)
