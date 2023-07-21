@@ -1,5 +1,8 @@
 ## BUET CSE Courseworks
-*_This doc contains the links to all of my course works and course related extra works of BUET CSE_*
+This doc contains the links to all of my course works and course related extra works of BUET CSE.
+
+### *_Note:  The first thing you should do entering a repository(linked from this README) is to read the README._*
+
 ## Table of Contents:
  - [Level 2 Term 1](#level-2-term-1)
  - [Level 2 Term 2](#level-2-term-2)
