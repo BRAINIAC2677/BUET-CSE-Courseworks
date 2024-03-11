@@ -33,4 +33,11 @@ This doc contains the links to all of my course works and course related extra w
 
 ## Level 3 Term 2
 - Assigned Works
-    - cooking :wink:
+    - [CSE-314-Operating-System](https://github.com/BRAINIAC2677/CSE-314-Operating-System)
+    - [CSE-318-Artificial-Intelligence](https://github.com/BRAINIAC2677/CSE-318-Artificial-Intelligence)
+    - [CSE-322-Computer-Networks](https://github.com/BRAINIAC2677/CSE-322-Computer-Networks)
+
+## Level 4 Term 1
+- Assigned Works
+    - [CSE-406-Computer-Security](https://github.com/BRAINIAC2677/CSE-406-Computer-Security)
+    - [CSE-410-Computer-Graphics](https://github.com/BRAINIAC2677/CSE-410-Computer-Graphics)
